@@ -1,4 +1,4 @@
-var medidas_molduras : [
+var medidas_molduras = [
    {
       "SP-M460":[
          {
